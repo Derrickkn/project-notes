@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(copy \"Ice Spice - Big Guy \\(from _The SpongeBob Movie_ Search for SquarePants\"\" _ Lyric Video\\) [7yaU0qXlgbo_00_00_13_00_01_00_part].mp3\" \"big-guy.mp3\")",
+      "Bash(ls:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
